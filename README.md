@@ -17,7 +17,9 @@ Objectifs du site
     Bonus : inviter les utilisateurs à créer et partager un mème, un diagramme ou une courte vidéo explicative sur ces notions via leurs réseaux sociaux.
 
 Technologies utilisées
+
     Github 
+    
     Prompt Engeniering
     PartyRock by AWS (plateforme low-code pour création de sites web)
 
@@ -30,9 +32,11 @@ Fonctionnalités
     Section participative pour encourager le partage créatif
 
 lien de mon application partyRock :
+
     https://partyrock.aws/u/soraaxanderakim22/DF6U2h5PH/IA-Jeunes-%3A-Comprendre-l'Intelligence-Artificielle
 
 image : 
+
      illustration IA
      sheme generatif d'un transformer
      capture d'ecran de l'application partyRock
